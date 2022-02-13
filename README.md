@@ -18,3 +18,11 @@ Example:
 ```bash
 pipenv run python manage.py makemigrations 
 ```
+
+![](images/lab3-1.png)
+![](images/lab3-2.png)
+![](images/lab3-3.png)
+![](images/lab3-4.png)
+![](images/lab3-5.png)
+![](images/lab3-6.png)
+![](images/lab3-7.png)
