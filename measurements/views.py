@@ -1,5 +1,9 @@
 from django.shortcuts import render
-
+from .logic import logic_measurements as vl
+from django.http import HttpResponse
+from django.core import serializers
+import json
+from django.views.decorators.csrf import csrf_exempt
 # Create your views here.
 
 @csrf_exempt
